@@ -36,3 +36,14 @@ h1 {
   justify-content: center;
   text-align: center;
 }
+
+/* Mobile first version view */
+@media (max-width: 767px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+  .contenedor-principal {
+    min-height: 300px;
+  }
+
+}
