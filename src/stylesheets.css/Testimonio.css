@@ -46,10 +46,13 @@
   .imagen-testimonio {
     width: auto;
     height: 100%;
+    margin-left: 20px;
   }
 
   .contenedor-texto-testimonio{
     font-size: .8rem;
+    line-height: .5rem;
+    padding: 10px;
   }
 
   .nombre-testimonio {
@@ -62,6 +65,7 @@
   
   .texto-testimonio {
     font-size: .6rem;
+
   }
 
 }
